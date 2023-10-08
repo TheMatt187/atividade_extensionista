@@ -5,6 +5,7 @@ O objetivo principal do projeto é criar um website que atue como um portal cent
 2- Tecnologia Next.js:
 
 A escolha do Next.js como framework é fundamental, pois ele permite o desenvolvimento de aplicações web altamente responsivas e otimizadas para mecanismos de busca, oferecendo uma experiência de usuário suave e rápida.
+
 3- Facilidade de Navegação:
 
 A navegação pelo site deve ser intuitiva, com uma estrutura de menu clara e uma pesquisa eficiente para que os usuários possam encontrar rapidamente as informações de que precisam.
